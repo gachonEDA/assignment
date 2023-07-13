@@ -12,7 +12,7 @@
 
 | 과제 내용 | 과제 파일 링크 | 비고 |
 | :---: | :---: | :---: |
-| Content-based Filtering 코드 작성 |  |  |
+| Content-based Filtering 코드 작성 | [Link](https://github.com/gachonEDA/assignment/blob/main/1%EA%B8%B0/%EA%B9%80%EB%8F%99%ED%98%84/content_based_learning.ipynb) |  |
 | 임베딩/유사도 기법들 적용 및 비교 |  |  |
 | Collaborative Filtering 코드 작성 |  |  |
 | [카카오 블로그](https://tech.kakao.com/2021/10/18/collaborative-filtering/) 읽고 정리하기 |  |  |

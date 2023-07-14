@@ -20,6 +20,7 @@
 
 <b> 과제를 하면서 참고한 것들 </b> :
 
+* Word2Vec이 포함되어 있는 라이브러리 : https://radimrehurek.com/gensim/models/word2vec.html
 
 
 <br>

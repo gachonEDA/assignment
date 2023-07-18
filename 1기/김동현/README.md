@@ -2,9 +2,9 @@
 
 <br>
 
-| 주차 | 1주차 |
-| :---: | :---: |
-| 제출한 과제 수 | 4 / 4 | 
+| 주차 | 1주차 | 2주차 |
+| :---: | :---: | :---: |
+| 제출한 과제 수 | 4 / 4 | 0 / 3 | 
 
 <br>
 
@@ -27,6 +27,30 @@
 
 <b> 과제를 하면서 느낀 것 </b> :
 * 추천 시스템을 구현하는 과정에서 사용되는 다양한 기법들이 존재한다는 것을 몸소 알 수 있었고, 새로운 것들을 체험해보며 흥미를 느꼈다.
+
+ 
+
+<br>
+<br>
+
+### 2주차
+
+| 과제 내용 | 과제 파일 링크 | 비고 |
+| :---: | :---: | :---: |
+| adjacency/incident Matrix로 그래프 그리기 |  |  |
+| GNN 자료 [1](https://velog.io/@whattsup_kim/Graph-Neural-Networks-%EA%B8%B0%EB%B3%B8-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) / [2](https://medium.com/watcha/gnn-%EC%86%8C%EA%B0%9C-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EB%85%BC%EB%AC%B8%EA%B9%8C%EC%A7%80-96567b783479) 정리하기 |  |  |
+| [YAHO](https://asiabiega.github.io/papers/yago3_cidr2015.pdf), [Probase](https://www.researchgate.net/publication/241623566_Probase_A_probabilistic_taxonomy_for_text_understanding), [ConceptNet](https://arxiv.org/pdf/1612.03975.pdf) 정리하기 |  |  |
+<br>
+
+<b> 과제를 하면서 참고한 것들 </b> :
+
+
+
+
+<br>
+
+<b> 과제를 하면서 느낀 것 </b> :
+
 
  
 
